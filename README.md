@@ -3,8 +3,8 @@
 ![gif](https://github.com/tombonynge/tombonynge/blob/master/profile.gif)
 
 ### Currently:
-- :hammer: working on my personal website.
-- :mag_right: learning about the min-max algorithm
+- :hammer: visualizing vector math with React and Three
+- :mag_right: memoization
 
 ### Reach me:
 - 📫 tombonynge@gmail.com
